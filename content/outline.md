@@ -113,13 +113,16 @@ Peer review, adversarial law, and forecasting tournaments are excellent external
 |---|---|---|---|
 | External | ✓ | ✓ | ✓ |
 | Adversarial | ✓ | ✓ | reality substitutes |
-| Readable status | ✗ | ✓ (of the case) | ✓ |
-| Administered discretion | heavy, ex post, aimable | heavy, constrained | light, ex ante, unaimable |
-| Unbounded scope | ✗ | ✗ | ✗ |
-| Targets persons | ✗ | ✗ | calibration, not honesty |
+| Readable record of the check | ✗ (reviews confidential, rejections invisible) | ✓ public judgment | ✓ public score |
+| Discretion over identified parties | heaviest, ex post, aimable | heavy, constrained | lightest, ex ante, unaimable |
+| Mechanics contestable within | ✗ | partial | ✗ |
+| Reach | all falsifiable scholarly claims | justiciable claims | near-term resolvable claims |
+| Boundary authored and aimable | yes | yes, rule-constrained | partly, ex ante |
+| Status about the person | ✗ | ✗ | calibration, not honesty |
 
-1. **The shortfalls scale with discretion.** Bounded scope, exempt mechanics, and unidirectionality appear in proportion to how much discretion the authority exercises over identified parties and claims. A graded correspondence across three institutions points to one mechanism: each shortfall is an exemption, and exemptions require a grantor. (Kialo and argument-mapping platforms: same two failures.)
-2. **Whatever each reads out, it is not about the person**: papers, cases, calibration.
+1. **Exemption-type shortfalls scale with discretion** (authored boundary, exempt mechanics, unidirectionality): full in peer review, partial in law, attenuated in forecasting. Dose-response, with the discretion ranking fixed independently in 4.2–4.4 on timing and aimability. Mechanism: each is an exemption, and exemptions require a grantor.
+2. **Reach runs the other way.** Widest in peer review, narrowest in forecasting. A trade: reach is bought with human adjudicators (where discretion lives); arbiter-freedom is bought by letting reality adjudicate (only where it is quick and unambiguous). No institution has both; a warranted attribution needs both (§3.5: no domain-limited IH). Required: human adversaries without a human arbiter.
+3. **None reads out a status about the person**: papers (and only in outline; §3.3's $k/n$ cannot be computed from a publication record), cases, calibration.
 
 Transition: §5 derives its conditions from the diagnosis, not by patching these gaps. The reader can check whether the two independent routes agree.
 
@@ -142,7 +145,7 @@ Each condition forecloses one way the §3 defect can reappear one level up: the 
 ### 5.4 Three consequences, not requirements
 > **Each is an exemption. An arbiter-free system cannot grant exemptions, because exemption requires an authority empowered to grant it.**
 
-- **Unbounded scope.** A domain boundary may be authored ex ante but must survive as a challengeable claim, and none can, since a bounded status cannot underwrite a claim that has no domain-limited form (§3.5, §6). What is excluded is an *exempt* boundary, not an authored one. **This is where §4's route and §5's route meet, independently.**
+- **Unbounded scope.** A domain boundary may be authored ex ante but must survive as a challengeable claim, and none can, since a bounded status cannot underwrite a claim that has no domain-limited form (§3.5, §6). What is excluded is an *exempt* boundary, not an authored one. Natural narrowness (forecasting) violates nothing in (d); it is answered by (b)'s concession. **This is where §4's route and §5's route meet, independently.**
 - **Self-correcting mechanics.** Exempting the mechanics makes the designer an arbiter. More: self-correction is what makes (d) *satisfiable*. Constraint and enabling mechanism, not circularity.
 - **Recursive application.** No one can exempt a level. Also an enabler of (d).
 - Produced, not required: **comprehensiveness** (adversarial selection targets the unexamined; self-selection avoids it) and **symmetry** (a demand for rigor is a claim; (a)+(b) applied to it catch asymmetry; the matched-pair objection pairs two propositions and asserts nothing about a person; implicit standards are forced explicit).
@@ -200,7 +203,7 @@ Not pressure, and not pressure toward the author's system (at most one member of
 ## 7. Discussion
 
 ### 7.1 Established / not established
-- **Established:** self-report is uninformative even among sincere reporters; a corrections record does not repair it; the self-certified claim is a counterexample to itself; three failure modes must be detectable; existing institutions fail in two consistent ways; four conditions follow, three consequences from one of them.
+- **Established:** self-report is uninformative even among sincere reporters; a corrections record does not repair it; the self-certified claim is a counterexample to itself; three failure modes must be detectable; existing institutions' exemption-type shortfalls scale with discretion, reach trades against arbiter-freedom, and none yields a status about the person; four conditions follow, three consequences from one of them.
 - **Not established:** that any system satisfies the conditions, including the author's; that a conforming system would be adopted; that the four are jointly sufficient.
 - Sufficiency stated precisely: three layers (dishonesty is closedness, secured negatively; closedness manifests in exactly three ways so far as found; four conditions detect all three). **The enumerations are printed so a reader can supply a fourth manifestation or a fifth relocation.**
 - Two narrowings: **failure is categorical, success is evidential** (one undefended instance settles; a clean record only accumulates evidence, hence graded substrate). And a record shows that **nothing was successfully protected**, not that everything was examined.
