@@ -1,7 +1,7 @@
 ---
 title: "The Self-Certification Problem"
 ---
-> [!info] Early working draft — updated 2026-09-16
+> [!info] Early working draft — updated 2026-09-17
 > **Full title:** *The Self-Certification Problem: Why attributions of intellectual honesty require arbiter-free, adversarial infrastructure with an objectively readable, external honesty ledger.*
 > This is an unfinished draft shared with friends for comment. Sections under a warning callout are reference prose still being rewritten in the author's own voice. Not for citation. A condensed version is at [[outline|Cliff notes outline]].
 
