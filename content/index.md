@@ -15,23 +15,11 @@ That contradiction and what would be required to resolve the problem are the sub
 
 Often the diagnosis runs the other way. The problem is that people are tribalistic, motivated reasoners, or poorly educated, and the remedy is **exhortation and instruction**: teach critical thinking, model intellectual humility, give people tools. We have pursued that remedy with considerable resources for over a century, and the results are instructive in a way the standard account cannot explain. Instruction produces real, measurable gains on tests of critical thinking,[^ct] yet the gains transfer poorly out of the classroom, and they are deployed least of all where they matter most — on the reasoner's own identity-laden beliefs. 
 
----
-
-[^ct]: Abrami et al. (2015) find a mean effect of g+ ≈ 0.30 across 341 effect sizes — instruction works, on the instrument. On the failure of transfer, Willingham (2008): critical thinking is not a domain-general skill but is context-dependent, which is why classroom gains do not follow the student out of the classroom. And Kahan, Peters, Dawson and Slovic (2017) find that higher numeracy *worsens* polarized readings of identity-laden data: the capacity is present and is turned away from the self.
-
----
-
 The capacity is teachable. What has never been **incentivized** is its application to one's core beliefs, and there is a better explanation for that than lazy students or stubborn adults: the remedy has been aimed at the wrong thing. The binding constraint was never that people struggle to reason well. Most can identify a fallacy in an opponent's argument easily enough. It is that nothing has ever attached to deploying that capacity against oneself, **because there is no objective way for others to tell whether that is what you are doing**. Whether you end up agreeing with them is far more visible, and far too distracting. 
 
 That absence is what this paper attempts to characterize precisely. §2 sets out the phenomenon: a claim to intellectual honesty that is made almost everywhere, at least implicitly, that carries real consequences for how credibility is allocated, and that no one has ever been in a position to verify. §3 argues that the claim is not merely difficult to verify but uninformative and structurally self-defeating — that self-reported intellectual honesty cannot in principle supply evidence of the practice, **and that the claim, made on one's own authority, instantiates the very failure it denies** — and that a record of one's own corrections does not repair this. §4 takes up the obvious reply, that we already have institutions for this. §5 asks what an adequate check would have to be, and derives the requirements from the diagnosis rather than from any existing institution. §6 draws a corollary that I take to be the paper's main direct consequence. 
 
 So far as I have been able to determine, the question has not been addressed. Virtue epistemology has produced careful accounts of what the intellectual virtues *are* — honesty and humility as states of character among them — and the epistemology of testimony has produced careful accounts of when to accept what others tell us about the world.[^gap] What neither literature takes up is the case in which the testimony concerns the person's own epistemic conduct: what could warrant accepting a person's claim to intellectual honesty, and what an attribution of it would have to rest on to be valid. That gap is this paper's subject. 
-
----
-
-[^gap]: For the character-trait treatments, see Whitcomb, Battaly, Baehr, and Howard-Snyder (2017) on intellectual humility, Roberts and Wood (2007) on the intellectual virtues generally, and Miller (2021) on honesty; for testimony and epistemic dependence, Hardwig (1985) and Goldman (2001). One conflation to head off: Miller's subject is honesty as a *moral* virtue — reliably not distorting the facts as one takes them to be. That concerns the relation between belief and assertion. The practice at issue here concerns the relation between evidence and belief, and a person could possess Miller's virtue in full while never once updating anything. Three neighboring literatures come close and should be named. Work on epistemic vigilance (Sperber et al. 2010) and on epistemic trust (Levy 2022) asks how a *hearer* should calibrate trust in a speaker, which presupposes that signals of honesty exist to be read; the present question is whether one such signal, the speaker's own claim, carries anything. Work on open-mindedness (Riggs 2010; Baehr 2011; Kwong 2016; Khorasanee 2024) analyzes the virtue's structure — Khorasanee's three stages of not screening, assessing impartially, and updating correspond closely to the three failure modes of §3.4 — without asking what would warrant attributing it. And Code (1987) makes epistemic responsibility central to intellectual virtue without asking how anyone could be shown to have discharged it. I say "so far as I have been able to determine" advisedly — the claim rests on searches, not on a proof of absence.
-
----
 
 The nearest existing treatment is the literature on the paradoxes of humility (Robinson 2020; Hughes 2022), where it is argued that asserting *"I am humble"* undermines itself by revealing attitudes incompatible with the virtue claimed. The argument below is that paradox's harder relative: what defeats a claim to intellectual honesty is not what the assertion *reveals about the speaker's attitudes* but what it *reserves* — the authority to decide when an objection to one's own epistemic conduct or to an individual truth proposition or argument has landed. And the principle that no one may hold that authority is not new. *Nemo iudex in causa sua* — no one may be judge in their own cause — has been a fixture of natural justice since Roman law and *Bonham's Case* (1610), applied without controversy to tribunals, audits, and licensure. The principle concerns decisions that bind others, and that is exactly the standing a self-certification acquires once credibility is allocated on it (§2). What follows examines the one place it has never been applied: the most frequently made claim (even if implicit) about epistemic conduct there is.
 
@@ -59,20 +47,7 @@ I will call this **self-certification**: the practice, universal because nothing
 
 The consequences are not academic. Credibility is allocated on the persuasiveness of these self-certifications (even if merely implied) in the minds of different audiences. Credibility then shapes collective behavior and the structuring of power from the smallest to the largest scales in society. Where the certifications are unverifiable and mutually contradictory — as they always are, since both parties issue them and only issue them when there is a disagreement — allocation falls back on the only remaining signals available: prior agreement, group membership, institutional affiliation, and confidence of delivery.[^fricker] Whatever else those are, they are not measures of epistemic conduct. 
 
----
-
-[^fricker]: Fricker (2007) shows that allocation by identity produces systematic credibility deficits; the point here is upstream of hers: where nothing measures conduct, identity is what allocation falls back on. On the underlying psychology, Kunda (1990). 
-
----
-
-
 That self-certification of intellectual honesty is unreliable is a familiar complaint and not mine. People are poor judges of their own reasoning; the literature on that is large and I take it as read.[^judges] My claim is stronger and different in kind: self-certification is uninformative and structurally self-defeating, and would remain so even if everyone issuing it were both sincere and careful. Reporter quality is not the variable that has failed. 
-
----
-
-[^judges]: Miller (2021, part II) reviews the empirical psychology of honesty-relevant behavior; the picture is not encouraging even for the moral virtue, let alone for self-assessment of one's reasoning. Pronin, Lin and Ross (2002) find the bias blind spot survives having the bias explained; Schwitzgebel (2008) finds introspection unreliable even under extended reflection. 
-
----
 
 That is the argument of the next section. 
 
@@ -100,19 +75,7 @@ $$
 
 and in every actual case, whatever the population is like, the utterance itself contributes nothing to whatever ratio obtains. The signal is what economists call cheap talk: an utterance with no cost differential across the states it purports to distinguish, and therefore with no discriminating power of its own. The formal result is Crawford and Sobel's: where the interests of sender and receiver diverge, costless messages transmit only coarse information, and past a threshold of divergence they transmit none at all.[^cs] 
 
----
-
-[^cs]: Crawford and Sobel (1982). Farrell and Rabin (1996) is a more accessible treatment. The biological literature on costly signaling reaches related conclusions by a different route, though the interpretation of the classic "handicap" results has been substantially revised — see Zollman, Bergstrom, and Huttegger (2013) on partially honest communication, which is closer to the graded picture I rely on than a cheap/costly dichotomy would be. Skyrms (2010) is the philosophical treatment of signaling.
-
----
-
 This is not a defect of any particular claimant. It is a property of the utterance type, and it is why I call self-certification *non-verifying*, or, where the shorter word is clearer, uninformative: it carries no information about the state *through the claim itself*. The empirical literature on adjacent virtues supplies the expected complement rather than a counterexample: self-reports of intellectual humility inflate under social desirability and agree only weakly with informant reports, which is what one would predict of a signal available to everyone.[^ihm] 
-
----
-
-[^ihm]: Krumrei-Mancuso and Rouse (2016) and Leary et al. (2017) on the measurement of intellectual humility and its social-desirability inflation; Meagher (2022) on the weakness of self–informant agreement. That the agreement is weak rather than zero is consistent with the structural claim: whatever signal exists comes from the population, not from the utterance. 
-
----
 
 A clarification is needed here, since the natural inference from what I've said is that a credible signal must be an expensive one, and that is not born out by the literature. What sustains informative signaling is not that the honest signaler pays a high price, but that **deviation would be costly**. Consider a company audit. A business with accurate books hands over records it was keeping anyway — near zero cost. A business cooking its books is the one that must pay the cost of fabricating a parallel set of internally consistent records or get caught. In this context, realized cost at an equilibrium of intellectual honesty may be near zero: the person who would have revised their view anyway pays nothing to be seen revising it. The cost falls on whoever would hold the signal without doing the thing it reports, and it falls on them at the point of deviation. I return to this in §5, where I constrain what an adequate check would have to look like; here it matters only as a caution against reading the diagnosis as a demand for costly display. It is not. 
 
@@ -125,12 +88,6 @@ Let $n$ be the number of errors in a person's public discourse that others have 
 The difficulty is that **the claimant supplies both terms**. They decide which criticisms rose to the level of meriting a response, which is actually prior to $n$; and they decide which of those objections land, which *is* $n$, and they decide to acknowledge the error, $k$, thus easily keeping $k/n$ equal to $1$ (a 100% track record of updating in response to evidence) if they want, which is the whole idea. 
 
 Importantly, and structurally, no one else is deciding what $n$ is **for this record**, nor can they **while the record remains the claimant's**. **That's the whole disagreement that makes this ratio meaningless**. The person certifying their own intellectual honesty has no choice but to adjudicate whether an objection to something they've claimed has landed. If an observer disagrees and has a larger $n$ for the claimant, the additional errors structurally cannot enter into the claimant's own $n$ register without the claimant agreeing that they are in fact errors. Any criticism the claimant ignores or incorrectly dismisses simply cannot appear in the denominator. Self-monitoring is unavoidable.[^korn] And crucially, it does not matter how sincere the claimant's belief is that the criticism fails. 
-
----
-
-[^korn]: Kornblith (2012) reaches a neighboring conclusion about reflection generally: introspective examination is interpretive and begins from an assumption of one's own rationality, which makes it ill-suited to detecting one's own irrationality.
-
----
 
 This holds with full force even when every acknowledged correction is genuine. Suppose a person's corrections are scrupulously accurate, generously worded, and promptly issued. The record is still uninformative about the ratio it is offered as evidence for, because the denominator was never determined by anyone but its author. A perfectly truthful numerator over a *structurally* unverifiable denominator yields no fraction at all. Three claims should be kept apart here, and only the third is mine: that no interpretation-free denominator exists; that no denominator can be constructed from outside; and that a self-curated denominator cannot establish what it is offered to establish. The first two are false, and §5 depends on their being false. 
 
@@ -145,13 +102,6 @@ If self-report structurally cannot provide what it claims to provide, the questi
 The first is **evasion**: declining scrutiny that is directed at one's own claims about objective reality. 
 
 The second is **unresponsiveness**: leaving one's confidence where it was when evidence one has accepted as bearing on the position implies that it should move, and offering no defeater that survives. Evidence that is redundant with what one already held, evidence whose source one has shown unreliable, and evidence already priced in are defeaters, and a person who states one has not been unresponsive. A person who states nothing has.[^hoe] 
-
----
-
-[^hoe]: Higher-order evidence — evidence about the reliability of one's own assessment — is a further class of legitimate defeater (Christensen 2010), and it too is a stated ground that enters the record. 
-
----
-
 
 The third is **asymmetry**: demanding of others' claims a standard of rigor that one does not apply to structurally matched claims of one's own. 
 
@@ -181,24 +131,11 @@ The reply is perhaps the most crucial part of this paper: **an exemption is not 
 
 To hold a claim exempt from scrutiny is to hold that it need not answer to evidence, and something must have the standing to decide that. There are two possibilities. **The standing may not be the inquirer's.** She may hold that reasons of a general kind — about the sort of claim this is, or the sort of assessment it admits of — establish that it is not answerable in the way others are. But then those reasons are open to challenge, whatever established the exemption can withdraw it, and she has not exempted anything; she has produced a conclusion about how a claim should be assessed. **Or the standing may be her own.** If the exemption rests on nothing beyond her decision to exempt, that standing is not confined to the claim it is exercised on. It is available for all the others, now. Two things follow, and it matters to keep them apart. The first is about the present: a person maintaining such an exemption is currently conducting the whole of her practice under a rule that licenses exempting anything, whether or not she has exercised it elsewhere, in the way that an official who holds one unrevocable immunity holds office on different terms from her colleagues even if she never invokes it. The second is about the past, and it is evidential rather than metaphysical: her many revisions do not show that she was bound by evidence, because a person operating under the optional policy produces exactly the same revisions wherever the evidence points where she was willing to go. The record of revisions is not falsified; it is rendered uninformative about the thing it was offered to show. **The exemption does not remove one item from the scope of the practice. It discloses the terms on which the whole of it is being conducted.** Only the second possibility is an exemption in the sense at issue, and one question distinguishes them wherever they are met: what could withdraw it, and by what procedure?[^exempt]
 
----
-
-[^exempt]: The first possibility can be put more strongly. On the strong reading of "exempt" — outside rational jurisdiction altogether — the conjunction *this claim is exempt, and the reason for its exemption is not* is contradictory: if the ground can be rationally overturned, a rational path to the claim's exposure exists, and a claim with such a path is not outside rational jurisdiction. On the weak reading the conjunction is consistent, but what it describes is a revocable permit, which is the first possibility and no exemption at all.
-
----
-
 The structure is the one familiar from the rule of law, which admits both kinds of exemption. Diplomatic immunity exempts a class of persons from ordinary process without the legal order ceasing to be one: the exemption is granted by law, its extent is defined in law, and it is revocable by the same process that could repeal any other law. The locus of sovereignty has not moved. What destroys a legal order is the exemption no law granted and no law can revoke, whose extent is set by the person holding it. Every judgment the order issues is then issued under an authority that could have suspended it, and everyone else's compliance stands revealed as subject to the whim of the one person exempt from it. **Such an exemption does not subtract a millionth from the rule of law; it relocates sovereignty.** Everyone else's law-abiding conduct is unchanged, but it has stopped being the relevant fact about the system. 
 
 It bears pointing out that the exempting rule cannot be confined to the claim it was adopted for. Either it cites some feature of that claim — that it is sacred, or foundational, or not amenable to ordinary methods — in which case it licenses the identical exemption for every claim sharing that feature, including those held by people whose exemptions the inquirer rejects. Or it cites no feature, in which case the rule is that she may exempt whatever she chooses, which is a reservation of authority — a reservation that anyone else could make for themselves — rather than a rule. 
 
 Nor is any of this a claim that intellectual honesty requires never lapsing. A lapse corrected when surfaced is not an exemption; it is the practice working. An exemption is what a lapse becomes when it is maintained after having been surfaced, and §3.6's second clarification says exactly when that threshold is crossed. The ordinary observation that virtuous people sometimes fail to manifest their virtue is therefore not an objection here. A lie told and retracted is a past event; a dogma held is a present rule without a coherent defense.[^closed] 
-
----
-
-[^closed]: The literature on open-mindedness offers cases in which closed-mindedness is said to be appropriate: toward propaganda, toward the arguments of racists, for those who lack the expertise to evaluate a skilled argument (Fantl 2018), in epistemically polluted environments (Battaly 2018), and, on Khorasanee's (2024) contextual account, wherever the costs of engagement outweigh its value. On the present account those cases divide in two. Where the person can *state* a reason for declining that could itself be challenged — this source has shown itself unreliable, I lack the competence to assess this and defer to those who have it, I cannot give this the time it needs — nothing has been exempted; a defeasible reason has been given, which §3.4 already allows. Where the reason is that the belief is central to one's life, or that engagement is unwelcome, the standing is the inquirer's own and the case is an exemption. The dividing question is the one above: what could withdraw it, and by what procedure? Russell's dictum, endorsed by Khorasanee — be open-minded about whatever does not adversely affect the broad pattern of your life — licenses exemptions on exactly the claims where §4 finds them concentrated. Nor is closedness ever needed for confidence: no one must be *closed* to the possibility that one plus one is three in order to be certain it is not, and a person who treats "racism is wrong" as exempt from scrutiny has severed it from the reasons that gave it its force.
-
----
-
 
 One qualification, and it bears on what exactly is being charged. Nothing here faults anyone for holding a belief they cannot defend. A person who holds such a belief, acknowledges it is unfalsifiable, and refrains from asserting it as true has made no demand on anyone, and there is no failure of intellectual honesty in that. What produces the failure is a specific conjunction: **asserting a claim as true**, which is to imply that anyone practicing intellectual honesty should come to believe it, **while holding the claim exempt from rational scrutiny**. Truth claims can thus differ from beliefs even where they overlap, and the same conjunction reappears as the corollary in §6. 
 
@@ -262,19 +199,7 @@ I want to be clear about what follows. My claim is not that these institutions f
 
 Peer review supplies a real external check by parties with a real interest in finding fault. On the first two things one would want from such a check — that it come from outside, and that whoever administers it be motivated to find something — it performs about as well as any institution we have.[^lee]
 
----
-
-[^lee]: And the familiar charge that it is pervasively biased is weaker than its reputation: Lee, Sugimoto, Zhang, and Cronin (2013), reviewing the empirical literature, find the evidence for many hypothesized forms of bias to be limited. Nothing in this section requires peer review to perform badly, and I do not claim it does.
-
----
-
 The difficulty is elsewhere, and it is a difference of target rather than of quality.[^hb] Peer review asks whether *this* paper survives scrutiny. It never asks whether *you* revised. 
-
----
-
-[^hb]: The observation that follows about administration is not mine alone. Heesen and Bright (2021), arguing on quite different grounds — epistemic-consequentialist, and toward the abolition of prepublication review — rest much of their case on the arbitrariness of concentrating judgment in an editor and a handful of reviewers. Worth noticing for present purposes: their proposed replacement, post-publication community evaluation, would still certify *papers*. The reform debate concerns how claims should be checked; no party to it proposes checking anyone's conduct. That is not a defect; it is the institution doing precisely what it was designed to do. But it has a consequence for the question at hand. A scientist may say, with complete honesty and with an institution to back her, *"my papers are checked."* She cannot say *"I am checked"* — and it is the second of these that a claim to intellectual honesty asserts.
-
----
 
 Alongside that difference of target sit three further limitations, and I want to draw attention to the relation between them rather than to the items themselves. Peer review is administered: editors determine what is sent for review, what is published, and whether an appeal is entertained. Given that, the journal's remit reserves authority in an editorial board, which makes certain claims structurally unactionable. There is no procedure by which a winning argument against peer review obligates peer review to yield to some alternative, and there is no inherent cost to ignoring one. And the relation runs in one direction only: a reviewer's demands of a paper are not themselves subject to symmetric review. An appeal to the editorial board is itself an asymmetric relation. Finally, certain claims can be unilaterally ruled inadmissible as outside of the journal's scope. 
 
@@ -282,11 +207,6 @@ I have listed those three as though they were separate findings. They are not. E
 
 And concerning intellectual honesty, there is also nothing to read. A publication record is not a determinate status about anyone's holistic epistemic conduct. It is a count of surviving papers, and it is compatible with a great many different underlying practices. Here again the shortfall is not a flaw but an absence of design intent: nothing in the institution was ever meant to produce such a status.[^wiki]
 
----
-
-[^wiki]: Wikipedia belongs to the same family and falls short for the same reason. It is adversarial, unusually close to arbiter-free, and maintains a genuine public record of disputes — but what it certifies is *article content*, not contributors. The difference of target again.
-
----
 ## 4.3 Adversarial legal procedure
 
 Adversarial legal procedure is the most developed adversarial machinery in existence: opposed advocacy, rules of evidence, and a determinate verdict about what is most warranted by the evidence. That last one supplies something peer review does not — a determinate, readable outcome. A judgment is not a matter of interpretation. 
@@ -300,12 +220,6 @@ The institution is also administered — judge and jury — and its scope limits
 ## 4.4 Forecasting tournaments
 
 Forecasting tournaments are the closest existing case, and I want to say so plainly rather than treat them as a third example.[^tet] The result is objectively readable — a number requiring no interpretation. It is graded. It is responsive: the score moves when you were wrong, and nothing you do can stop it moving. And the check is external in an unusually strong sense, since reality supplies the verdict. 
-
----
-
-[^tet]: Tetlock, Mellers, Rohrbaugh, and Chen (2014) for the tournaments and their scoring. 
-
----
 
 It is tempting to conclude that there is no arbiter here at all. That is not true, and the truth is more useful. Consider a question asking whether a central bank's policy rate will fall below three per cent by some date, with resolution criteria published in advance that read the rate from the bank's announced *point* target. Several hundred people forecast. The bank then abandons point targets for a *range*, and the criteria say nothing about ranges. Someone has to rule on what the question was asking, and an administrator does. 
 
@@ -332,12 +246,6 @@ Three things emerge from the table, and the first two run in opposite directions
 
 First, the exemption-type shortfalls do not merely cluster; they *scale*. Where an authority administers a check, three things appear: the edge of the check (the boundary line between what the institution will and won't examine) is set by that authority and can be aimed at particular claims, the check's own mechanics are placed outside it, and it runs in one direction only. Each appears in proportion to how much discretion the authority exercises over identified parties and claims. Peer review, where discretion is heaviest and most aimable, shows all three in full; adversarial procedure, whose rules the courts can revisit, shows partial self-correction; forecasting, where discretion is lightest and exercised before anyone can be identified, shows all three attenuated. For example, the one boundary that remains authored, question selection, is set before anyone can be identified. The amount of each shortfall tracks the amount of discretion, and the ranking by discretion was fixed in §§4.2–4.4 on timing and aimability, before the shortfalls were tallied. That is the pattern a dose-response relationship would show (Hill 1965), and it is better evidence than co-occurrence alone, since it is what one would expect only if discretion were the cause. Three institutions cannot establish a dose-response relationship; they can exhibit its shape, and that is all I claim. The mechanism is that each shortfall is an *exemption*, and an exemption has to be granted by someone with the standing to grant it.[^platforms] 
 
----
-
-[^platforms]: Structured argumentation platforms — Kialo and the argument-mapping tradition — belong here as further cases, not near misses. They keep a persistent inspectable record of an exchange, but they are administered by their operators and represent the structure of a debate rather than any status about a participant. See Klein and Iandoli (2008) and Bench-Capon and Dunne (2007). Adversarial collaboration (Mellers, Hertwig and Kahneman 2001) is the nearest thing in scientific practice to a check on *persons*: disputants pre-agree the tests that would move them, and then run them. It certifies the resolution of one dispute, under an arbiter, and its rarity is itself evidence for §2's picture. Lerner and Tetlock (1999) supply the psychology: accountability to an audience whose views are unknown produces self-critical thought, while accountability to a known audience produces conformity, which is the difference between (b) and a friendly review. 
-
----
-
 Second, *reach* runs the other way, and this is the finding I would ask the reader to hold onto. Peer review can be brought to bear on any falsifiable scholarly claim, which is nearly the whole of what can be objectively known about nature, the human sphere included. Adversarial law reaches only justiciable claims. Forecasting reaches only claims that resolve soon and cleanly, which excludes moral, theological, historical, and most scholarly and political claims on which reality's verdict is complex, slow, absent or contested. So the institution that is nearly free of an arbiter has the narrowest reach, and the one with the widest reach has the heaviest arbiter. That is not a coincidence but a trade. Peer review buys its reach with human adjudicators, and human adjudicators are where discretion lives. Forecasting buys its near arbiter-freedom by letting reality adjudicate, and reality adjudicates only where it is quick and unambiguous. No existing institution has both wide reach and freedom from an arbiter, and a warranted attribution of intellectual honesty needs both, since there is no domain-limited intellectual honesty to attribute (§3.5). What would be required is adversarial enforcement from humans, for reach, without a human arbiter. Nothing we have is built that way, and §5 will say what would have to be true of something that was. 
 
 Third, whatever each institution reads out, it is not about the person. Peer review yields a status about **papers**, and even that only in outline, since the reviews are confidential and the rejections invisible, so that no one's $k/n$ of §3.3 could easily be computed from a publication record. Adversarial procedure yields a status about **cases**. Forecasting yields one about **calibration** — a real property of a person, but not the one at issue, since a well-calibrated forecaster may be entirely closed on everything her tournament does not score. Not one of these institutions was built to answer *is this person practicing intellectual honesty?* — perhaps a large part of why the answer has never been available. 
@@ -362,12 +270,6 @@ Two general points first. The first was made in §3.2 and needs only recalling: 
 
 The second marks the limit of the signaling frame, because the conditions do not describe a signal in Spence's (1973) sense, and a reader who carries that picture into 5.3 will misread them. In the Spence signaling model the state is private and permanently unobservable, and a separate visible act licenses an inference across the gap by its *cost*, not its content. What follows differs in three ways. The information lies in **content**: what a participant said when a particular objection was put to them, where a different response at identical cost changes the inference entirely. The examination is **generated adversarially**: a counterparty chooses which claims to press, and is naturally motivated to press where the participant seems likeliest to refuse to practice intellectual honesty — a severe test, in Mayo's (1996) sense. And the constraint on anyone who would hold the status without doing the thing is not price but **feasibility**: some responses are unavailable for purchase at any cost, since producing one would require having done the work it reports — i.e., there is no way to buy a record showing that you conceded an objection (or adequately engaged and answered it) other than by conceding it (or adequately answering it). Conceding selectively does not get around this, since the counterparty chooses what to press, so a record that looks good under that pressure is a record of conceding what one least wanted to. Nor does private insincerity, since a declared credence is a commitment the record then holds one to, and the status is about conduct rather than inner states. The barrier to faking is that faking well *is indistinguishable from doing the thing*. That places the structure nearer to the literature on verification than to costly signaling,[^verif] and it means no separating equilibrium across a population is needed; each record is about one participant and stands on its own. 
 
----
-
-[^verif]: Townsend (1979) on costly state verification; Green and Laffont (1986) on partially verifiable information. I draw the analogy only to locate the structure, and claim no result in either literature. 
-
----
-
 One consequence is worth stating, because it discharges the promise made to the dispositional reader in §1. On the practice account, the record is not evidence for a hidden state; **the conduct it records is what the practice consists in**. On a dispositional account, the same record is evidence from which a trait may be inferred, as conduct is ordinarily evidence of character. **The conditions in 5.3 are identical either way.** None requires anything of anyone's inner states, and where an inference to a disposition is drawn, it is the reader who draws it and nothing in the system does. The disagreement is real and I have not settled it. It does not need settling for the argument to go through. 
 
 ## 5.3 Four conditions
@@ -380,11 +282,6 @@ It will be objected that (b) makes (a) redundant. They come apart, narrowly. Som
 
 **(c) The record must be objectively readable** — it must exist, and it must yield a determinate status **about the participant's own epistemic conduct**, with no third party exercising interpretive discretion over what that status is. Two things are asked for. A record whose meaning is contested is not yet a check: a transcript is inspectable, but whether someone conceded (or adequately engaged) in it is interpretable, and a status available either way carries no more information than the self-attribution it was meant to replace. This is the third appearance of the same failure. I do not claim that interpretation can be eliminated; nearly every step in an exchange requires it. The condition concerns *where* it happens. Whether an objection landed, whether a distinction is legitimate, whether two claims are matched, are questions the parties put to each other as contestable claims inside the record, and the status is then computed from what neither could coherently reject (§5.6). Interpretation is relocated into the parties' own claims, where it is checked like anything else, rather than exercised by a reader over the result.[^dialogue] 
 
----
-
-[^dialogue]: The formal dialogue literature (Walton and Krabbe 1995; Prakken 2006) exists because burdens of proof, permissible moves, and termination all have to be represented and governed. I take that as confirming the shape of the requirement rather than as an objection: those are exactly the thin procedural rules (d) requires to be authored ex ante and to remain contestable. 
-
----
 And a record can be perfectly determinate and still be about the wrong thing, as §4 found three times. Note what follows: **you cannot have a determinate status about someone's epistemic conduct on a claim unless their own position on that claim is in the record.** This is why assigned-side advocacy cannot serve, however skilled, and no appeal to the advocate's sincerity is required or wanted. 
 
 **(d) There must be no arbiter** — no party with discretion over *identified* claims or participants; **the check must have a terminating replacement, and the rules standing in the arbiter's place must themselves be subject to the check.** Suppose the check is administered by an authority who determines whether objections have landed. A ruling that an objection failed is about an argument, not about a person; but it *settles what the attribution will be*, since whether the participant's non-revision counts as unresponsiveness depends on it. So every status downstream of the ruling rests on the ruling. By (a) an attribution requires an external check to be warranted; if nothing checks the arbiter, the status is self-certified at one remove, which is the original problem relocated one level up and dressed in institutional clothing. 
@@ -449,12 +346,6 @@ The specification is falsifiable, and I state the falsifier plainly: exhibit eit
 The conditions leave open what the status of a truth claim in the record should look like. It could be a binary verdict, *accepted* or *rejected*, or it could be a number between 0 and 1 expressing how much a claim is favored by evidence. The question deserves a paragraph because the simpler answer is more available than one might think. There is a well-developed formalism, the abstract argumentation frameworks of Dung (1995), in which arguments are nodes, attacks between arguments are edges, and a fixed rule computes from the attack structure alone which arguments stand and which fall. A record built that way is fully determinate, requires no arbiter, and uses no numbers and no prior probabilities. So condition (c), objective readability, does not by itself require anything continuous; a binary record can be perfectly readable. 
 
 What a two-valued record cannot represent is **degree**, and §3's diagnosis needs degree in two places. The charge of unresponsiveness is that a person's confidence did not move at all after being presented with new evidence. That charge cannot even be stated unless confidence is something that moves by more or less, which a status of *stands* or *falls* is not. **And most real evidence supports a claim partially, raising or lowering its probability without settling it**. In a two-valued scheme partial support has nowhere to go: it either flips the verdict or is discarded. So the claim I would defend is narrower than "the record must be probabilistic." It is that (c), together with the requirement that evidence of varying strength be representable, requires a graded substrate: statuses that are credences (degrees of confidence), or that behave like them, whether continuous or finely discrete.[^hahn] What the degree-of-confidence substrate buys is not determinacy, which the two-valued scheme already had, but *graded* determinacy: a determinate answer to how far a claim is favored by the evidence, and likewise a determinate answer to whether, and how much, a participant's confidence moved. 
-
----
-
-[^hahn]: The view that argument strength is a likelihood ratio, and that informal argument is rationally evaluable in Bayesian terms, is developed by Hahn and Oaksford (2007). The substrate described here is the record-keeping counterpart of that view: what they treat as a norm for evaluating arguments, a conforming system treats as the bookkeeping of what the parties could not reject.
-
----
 
 Call the status the record assigns a claim its **evidential credence**. I should say what kind of quantity it is, because a reader will ask. It is *comparative support for a claim against its own negation*, accumulated from the likelihood ratios of the evidence neither party has coherently rejected, starting from an unmoved prior of even odds. It is not a probability distribution over a partition of alternatives. Each claim is scored against its own negation, so the quantity is well-defined for every claim on its own; coherence across logically related claims is not imposed by the arithmetic but produced the way everything else is, by relations between claims being asserted, admitted, and allowed to carry weight. A participant's declared credence, placed on the same odds scale, differs from the evidential credence by exactly the participant's residual prior, so the gap between them is a comparison of like quantities and not a mismatch of kinds. Refusal is not rejection: a refusal with no surviving defense leaves the evidence standing and records the refusal, so that no one can block inquiry by declining to be persuaded. A participant also has a declared credence, the commitment §5.2 described, and the two may differ. The difference is itself a claim, that the participant holds grounds not yet in the record. Forced explicit, those grounds meet one of three fates. They enter the record and move the evidential credence. Or they fail, and the gap is left with nothing behind it, which is unresponsiveness in its recorded form. Or they are a standard the other party contests and neither can refute, in which case the gap remains on both sides while the evidential credence never settles away from indifference: the recorded signature of a deep disagreement (§7.3). There is no fourth outcome. An evidential credence near indifference is therefore ambiguous on its own and unambiguous on inspection. Where it reflects admitted evidence that balances, a participant's distant credence has nothing left to rest on. Where it reflects evidence that could not be admitted at all, the distance is grounded in the standard under dispute. 
 
@@ -567,7 +458,7 @@ What I will say is what would count as an existence proof. **The pilot's task is
 
 Two things sit under this limit that are easy to mistake for objections to the conditions. Participation costs — time, exposure, the asymmetry between those with leisure to argue and those without — will shape who shows up, and a record built by an unrepresentative population has low power on exactly the claims that population does not adequately contest. That is a threat to power and representativeness, and §5.2's remark that the structure is nearly free to those already doing the thing concerns the cost of the *signal*, not the cost of participating. It becomes a threat to *validity* in one case, which I concede: if a system scores inability to answer promptly as a conduct failure, it confounds intellectual honesty with available time and verbal facility. So a conforming system must distinguish *pending* from *declined*, must treat "I cannot get to this" as a stated reason, and must let an unanswered challenge enter the record as evidence without letting the silence itself count against anyone until a much longer, notified window has lapsed. Whether an implementation manages this is relevant to its validity and not merely to its power, and it belongs on the pilot's list. Harassment, burden-dumping, and manufactured objection are real hazards for any implementation, and answering them is an implementation's task rather than this paper's; I note only that a standards-shaped challenge answers a class of objections at once, which blunts the crudest form. 
 
-**Some disagreements survive a fully conforming high-powered check — perhaps indefinitely.** The clearest case I know is between someone who treats individual autonomy as constitutive of what makes a life go well (Raz 1986) and someone who treats it as instrumental to welfare and therefore tradeable. Every empirical test either party proposes measures preference satisfaction, and so presupposes the welfarist metric; there is no neutral test, even in principle, because the disagreement is about which measurement counts as evidence (Chang 1997). These are Fogelin's (1985) **deep disagreements**, which Ranalli (2022) distinguishes from disagreements that merely persist. This is not a defect in the conditions: no procedure that adjudicates by evidence can settle a dispute about what evidence would bear. What a conforming system supplies here is not agreement but **legibility**: the point at which the parties part company is located exactly, and it becomes visible that they part over a standard rather than a fact. I do not know how large this class is. I have one worked example and an argument that such cases must exist, and no estimate of their proportion. The argument depends only on there being a great many disputes that are *not* of this kind. The class is narrower than "value disagreements," since a dispute over values is deep only when it turns on *which measurement counts as evidence*. Disputes about means to shared ends, or about facts that bear on a value, are ordinary and the check reaches them. 
+**Some disagreements survive a fully conforming high-powered check — perhaps indefinitely.** The clearest case I know is between someone who treats individual autonomy as constitutive of what makes a life go well (Raz 1986) and someone who treats it as instrumental to welfare and therefore tradeable. Every empirical test either party proposes measures preference satisfaction, and so presupposes the welfarist metric; there is no neutral test, even in principle, because the disagreement is about which measurement counts as evidence (Chang 1997). These are Fogelin's (1985) **deep disagreements**, which Ranalli and Lagewaard (2022b) distinguishes from disagreements that merely persist. This is not a defect in the conditions: no procedure that adjudicates by evidence can settle a dispute about what evidence would bear. What a conforming system supplies here is not agreement but **legibility**: the point at which the parties part company is located exactly, and it becomes visible that they part over a standard rather than a fact. I do not know how large this class is. I have one worked example and an argument that such cases must exist, and no estimate of their proportion. The argument depends only on there being a great many disputes that are *not* of this kind. The class is narrower than "value disagreements," since a dispute over values is deep only when it turns on *which measurement counts as evidence*. Disputes about means to shared ends, or about facts that bear on a value, are ordinary and the check reaches them. 
 
 **Shared error is invisible to bilateral scrutiny.** The check catches what at least one party doubts. It cannot catch a false assumption both parties hold, since neither will raise it. This is not the ordinary point that any system is fallible; it is a structural limit on where the check can look, and it means a status can be well-supported and wrong wherever the participants' blind spots coincide. Mutual scrutiny is only as good as the intersection of the parties' blind spots is small. 
 
@@ -583,4 +474,160 @@ What I have tried to give is a specification of what would be missing no longer:
 
 If the specification is right, it has a consequence — that a person cannot **both** claim to practice intellectual honesty and defensibly refuse an available check on it once such a check exists. 
 
-If it is wrong, I would like to know which premise or condition fails and why. The correction would be worth more than the result. And here is why the question matters either way. No one defends intellectual dishonesty under that name, and §3.2 showed that it does not need to: people of polar opposite dispositions issue an identical claim about their epistemic conduct. The dishonest strategy operates entirely by being mistaken for its opposite. **The disguise is what is load-bearing**. A check whose signal is not equally available to both would be the first instrument to weaken that disguise structurally, and it would do so more accurately as participation grows (§7.3). How much would follow from that I do not know, and this paper has not tried to say. Either outcome — the specification is right, or it's wrong but there's a correction — is better than the situation that has held up to the present, in which the question "is this person intellectually honest?" cannot meaningfully be asked because there has not been a procedure that could answer it. 
+If it is wrong, I would like to know which premise or condition fails and why. The correction would be worth more than the result. And here is why the question matters either way. No one defends intellectual dishonesty under that name, and §3.2 showed that it does not need to: people of polar opposite dispositions issue an identical claim about their epistemic conduct. The dishonest strategy operates entirely by being mistaken for its opposite. **The disguise is what is load-bearing**. A check whose signal is not equally available to both would be the first instrument to weaken that disguise structurally, and it would do so more accurately as participation grows (§7.3). How much would follow from that I do not know, and this paper has not tried to say. Either outcome — the specification is right, or it's wrong but there's a correction — is better than the situation that has held up to the present, in which the question "is this person intellectually honest?" cannot meaningfully be asked because there has not been a procedure that could answer it.
+
+# References
+
+Abrami, Philip C., Robert M. Bernard, Eugene Borokhovski, David I. Waddington, C. Anne Wade, and Tonje Persson. 2015. "Strategies for Teaching Students to Think Critically: A Meta-Analysis." *Review of Educational Research* 85 (2): 275–314.
+
+Baehr, Jason. 2011. *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology.* Oxford: Oxford University Press.
+
+Battaly, Heather. 2018. "Can Closed-Mindedness Be an Intellectual Virtue?" *Royal Institute of Philosophy Supplement* 84: 23–45.
+
+Bench-Capon, Trevor J. M., and Paul E. Dunne. 2007. "Argumentation in Artificial Intelligence." *Artificial Intelligence* 171 (10–15): 619–641.
+
+*Bonham's Case* (1610) 8 Co. Rep. 107a, 77 Eng. Rep. 638 (Court of Common Pleas).
+
+Chang, Ruth, ed. 1997. *Incommensurability, Incomparability, and Practical Reason.* Cambridge, MA: Harvard University Press.
+
+Christensen, David. 2007. "Epistemology of Disagreement: The Good News." *Philosophical Review* 116 (2): 187–217.
+
+Christensen, David. 2010. "Higher-Order Evidence." *Philosophy and Phenomenological Research* 81 (1): 185–215.
+
+Code, Lorraine. 1987. *Epistemic Responsibility.* Hanover, NH: University Press of New England.
+
+Crawford, Vincent P., and Joel Sobel. 1982. "Strategic Information Transmission." *Econometrica* 50 (6): 1431–1451.
+
+Dung, Phan Minh. 1995. "On the Acceptability of Arguments and Its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and n-Person Games." *Artificial Intelligence* 77 (2): 321–357.
+
+Elga, Adam. 2007. "Reflection and Disagreement." *Noûs* 41 (3): 478–502.
+
+"Epistemic Circularity." *Internet Encyclopedia of Philosophy.* https://iep.utm.edu/ep-circ/. Accessed September 2026.
+
+Fantl, Jeremy. 2018. *The Limitations of the Open Mind.* Oxford: Oxford University Press.
+
+Farrell, Joseph, and Matthew Rabin. 1996. "Cheap Talk." *Journal of Economic Perspectives* 10 (3): 103–118.
+
+Fogelin, Robert J. 1985. "The Logic of Deep Disagreements." *Informal Logic* 7 (1): 1–8.
+
+Fricker, Miranda. 2007. *Epistemic Injustice: Power and the Ethics of Knowing.* Oxford: Oxford University Press.
+
+Goldman, Alvin I. 2001. "Experts: Which Ones Should You Trust?" *Philosophy and Phenomenological Research* 63 (1): 85–110.
+
+Green, Jerry R., and Jean-Jacques Laffont. 1986. "Partially Verifiable Information and Mechanism Design." *Review of Economic Studies* 53 (3): 447–456.
+
+Hahn, Ulrike, and Mike Oaksford. 2007. "The Rationality of Informal Argumentation: A Bayesian Approach to Reasoning Fallacies." *Psychological Review* 114 (3): 704–732.
+
+Hardwig, John. 1985. "Epistemic Dependence." *Journal of Philosophy* 82 (7): 335–349.
+
+Heesen, Remco, and Liam Kofi Bright. 2021. "Is Peer Review a Good Idea?" *British Journal for the Philosophy of Science* 72 (3): 635–663.
+
+Hill, Austin Bradford. 1965. "The Environment and Disease: Association or Causation?" *Proceedings of the Royal Society of Medicine* 58 (5): 295–300.
+
+Hughes, Derick. 2022. "Demystifying Humility's Paradoxes." *Episteme* 21 (2): 425–442. Published online 18 April 2022.
+
+Kahan, Dan M., Ellen Peters, Erica Cantrell Dawson, and Paul Slovic. 2017. "Motivated Numeracy and Enlightened Self-Government." *Behavioural Public Policy* 1 (1): 54–86.
+
+Kelly, Thomas. 2010. "Peer Disagreement and Higher-Order Evidence." In *Disagreement*, edited by Richard Feldman and Ted A. Warfield, 111–174. Oxford: Oxford University Press.
+
+Khorasanee, Kasim. 2024. "Being Open-Minded about Open-Mindedness." *Philosophy* 99 (2): 191–221.
+
+Klein, Mark, and Luca Iandoli. 2008. "Supporting Collaborative Deliberation Using a Large-Scale Argumentation System: The MIT Collaboratorium." MIT Sloan Research Paper No. 4691-08. https://ssrn.com/abstract=1099082.
+
+Kornblith, Hilary. 2012. *On Reflection.* Oxford: Oxford University Press.
+
+Krumrei-Mancuso, Elizabeth J., and Steven V. Rouse. 2016. "The Development and Validation of the Comprehensive Intellectual Humility Scale." *Journal of Personality Assessment* 98 (2): 209–221.
+
+Kunda, Ziva. 1990. "The Case for Motivated Reasoning." *Psychological Bulletin* 108 (3): 480–498.
+
+Kwong, Jack M. C. 2016. "Open-Mindedness as a Critical Virtue." *Topoi* 35 (2): 403–411.
+
+Leary, Mark R., Kate J. Diebels, Erin K. Davisson, Katrina P. Jongman-Sereno, Jennifer C. Isherwood, Kaitlin T. Raimi, Samantha A. Deffler, and Rick H. Hoyle. 2017. "Cognitive and Interpersonal Features of Intellectual Humility." *Personality and Social Psychology Bulletin* 43 (6): 793–813.
+
+Lee, Carole J., Cassidy R. Sugimoto, Guo Zhang, and Blaise Cronin. 2013. "Bias in Peer Review." *Journal of the American Society for Information Science and Technology* 64 (1): 2–17.
+
+Lerner, Jennifer S., and Philip E. Tetlock. 1999. "Accounting for the Effects of Accountability." *Psychological Bulletin* 125 (2): 255–275.
+
+Levy, Neil. 2022. "In Trust We Trust: Epistemic Vigilance and Responsibility." *Social Epistemology* 36 (3): 283–298.
+
+Mayo, Deborah G. 1996. *Error and the Growth of Experimental Knowledge.* Chicago: University of Chicago Press.
+
+Meagher, Benjamin R. 2022. "An Assessment of Self and Informant Data for Measuring Intellectual Humility." *Personality and Individual Differences* 184: 111218.
+
+Mellers, Barbara, Ralph Hertwig, and Daniel Kahneman. 2001. "Do Frequency Representations Eliminate Conjunction Effects? An Exercise in Adversarial Collaboration." *Psychological Science* 12 (4): 269–275.
+
+Miller, Christian B. 2021. *Honesty: The Philosophy and Psychology of a Neglected Virtue.* Oxford: Oxford University Press.
+
+Prakken, Henry. 2006. "Formal Systems for Persuasion Dialogue." *Knowledge Engineering Review* 21 (2): 163–188.
+
+Pronin, Emily, Daniel Y. Lin, and Lee Ross. 2002. "The Bias Blind Spot: Perceptions of Bias in Self versus Others." *Personality and Social Psychology Bulletin* 28 (3): 369–381.
+
+Ranalli, Chris, and Thirza Lagewaard. 2022a. "Deep Disagreement (Part 1): Theories of Deep Disagreement." *Philosophy Compass* 17 (12): e12886.
+
+Ranalli, Chris, and Thirza Lagewaard. 2022b. "Deep Disagreement (Part 2): Epistemology of Deep Disagreement." *Philosophy Compass* 17 (12): e12887.
+
+Raz, Joseph. 1986. *The Morality of Freedom.* Oxford: Clarendon Press.
+
+Riggs, Wayne. 2010. "Open-Mindedness." *Metaphilosophy* 41 (1–2): 172–188.
+
+Roberts, Robert C., and W. Jay Wood. 2007. *Intellectual Virtues: An Essay in Regulative Epistemology.* Oxford: Clarendon Press.
+
+Robinson, Brian. 2020. "'I Am So Humble!': On the Paradoxes of Humility." In *The Routledge Handbook of Philosophy of Humility*, edited by Mark Alfano, Michael P. Lynch, and Alessandra Tanesini, 26–35. London: Routledge.
+
+Schwitzgebel, Eric. 2008. "The Unreliability of Naive Introspection." *Philosophical Review* 117 (2): 245–273.
+
+Skyrms, Brian. 2010. *Signals: Evolution, Learning, and Information.* Oxford: Oxford University Press.
+
+Spence, Michael. 1973. "Job Market Signaling." *Quarterly Journal of Economics* 87 (3): 355–374.
+
+Sperber, Dan, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson. 2010. "Epistemic Vigilance." *Mind & Language* 25 (4): 359–393.
+
+Tetlock, Philip E., Barbara A. Mellers, Nick Rohrbaugh, and Eva Chen. 2014. "Forecasting Tournaments: Tools for Increasing Transparency and Improving the Quality of Debate." *Current Directions in Psychological Science* 23 (4): 290–295.
+
+Townsend, Robert M. 1979. "Optimal Contracts and Competitive Markets with Costly State Verification." *Journal of Economic Theory* 21 (2): 265–293.
+
+Walton, Douglas N., and Erik C. W. Krabbe. 1995. *Commitment in Dialogue: Basic Concepts of Interpersonal Reasoning.* Albany: State University of New York Press.
+
+Whitcomb, Dennis, Heather Battaly, Jason Baehr, and Daniel Howard-Snyder. 2017. "Intellectual Humility: Owning Our Limitations." *Philosophy and Phenomenological Research* 94 (3): 509–539.
+
+Willingham, Daniel T. 2008. "Critical Thinking: Why Is It So Hard to Teach?" *Arts Education Policy Review* 109 (4): 21–29.
+
+Zollman, Kevin J. S., Carl T. Bergstrom, and Simon M. Huttegger. 2013. "Between Cheap and Costly Signals: The Evolution of Partially Honest Communication." *Proceedings of the Royal Society B* 280 (1750): 20121878.
+
+# Notes
+
+[^ct]: Abrami et al. (2015) find a mean effect of g+ ≈ 0.30 across 341 effect sizes — instruction works, on the instrument. On the failure of transfer, Willingham (2008): critical thinking is not a domain-general skill but is context-dependent, which is why classroom gains do not follow the student out of the classroom. And Kahan, Peters, Dawson and Slovic (2017) find that higher numeracy *worsens* polarized readings of identity-laden data: the capacity is present and is turned away from the self.
+
+[^gap]: For the character-trait treatments, see Whitcomb, Battaly, Baehr, and Howard-Snyder (2017) on intellectual humility, Roberts and Wood (2007) on the intellectual virtues generally, and Miller (2021) on honesty; for testimony and epistemic dependence, Hardwig (1985) and Goldman (2001). One conflation to head off: Miller's subject is honesty as a *moral* virtue — reliably not distorting the facts as one takes them to be. That concerns the relation between belief and assertion. The practice at issue here concerns the relation between evidence and belief, and a person could possess Miller's virtue in full while never once updating anything. Three neighboring literatures come close and should be named. Work on epistemic vigilance (Sperber et al. 2010) and on epistemic trust (Levy 2022) asks how a *hearer* should calibrate trust in a speaker, which presupposes that signals of honesty exist to be read; the present question is whether one such signal, the speaker's own claim, carries anything. Work on open-mindedness (Riggs 2010; Baehr 2011; Kwong 2016; Khorasanee 2024) analyzes the virtue's structure — Khorasanee's three stages of not screening, assessing impartially, and updating correspond closely to the three failure modes of §3.4 — without asking what would warrant attributing it. And Code (1987) makes epistemic responsibility central to intellectual virtue without asking how anyone could be shown to have discharged it. I say "so far as I have been able to determine" advisedly — the claim rests on searches, not on a proof of absence.
+
+[^fricker]: Fricker (2007) shows that allocation by identity produces systematic credibility deficits; the point here is upstream of hers: where nothing measures conduct, identity is what allocation falls back on. On the underlying psychology, Kunda (1990).
+
+[^judges]: Miller (2021, part II) reviews the empirical psychology of honesty-relevant behavior; the picture is not encouraging even for the moral virtue, let alone for self-assessment of one's reasoning. Pronin, Lin and Ross (2002) find the bias blind spot survives having the bias explained; Schwitzgebel (2008) finds introspection unreliable even under extended reflection.
+
+[^cs]: Crawford and Sobel (1982). Farrell and Rabin (1996) is a more accessible treatment. The biological literature on costly signaling reaches related conclusions by a different route, though the interpretation of the classic "handicap" results has been substantially revised — see Zollman, Bergstrom, and Huttegger (2013) on partially honest communication, which is closer to the graded picture I rely on than a cheap/costly dichotomy would be. Skyrms (2010) is the philosophical treatment of signaling.
+
+[^ihm]: Krumrei-Mancuso and Rouse (2016) and Leary et al. (2017) on the measurement of intellectual humility and its social-desirability inflation; Meagher (2022) on the weakness of self–informant agreement. That the agreement is weak rather than zero is consistent with the structural claim: whatever signal exists comes from the population, not from the utterance.
+
+[^korn]: Kornblith (2012) reaches a neighboring conclusion about reflection generally: introspective examination is interpretive and begins from an assumption of one's own rationality, which makes it ill-suited to detecting one's own irrationality.
+
+[^hoe]: Higher-order evidence — evidence about the reliability of one's own assessment — is a further class of legitimate defeater (Christensen 2010), and it too is a stated ground that enters the record.
+
+[^exempt]: The first possibility can be put more strongly. On the strong reading of "exempt" — outside rational jurisdiction altogether — the conjunction *this claim is exempt, and the reason for its exemption is not* is contradictory: if the ground can be rationally overturned, a rational path to the claim's exposure exists, and a claim with such a path is not outside rational jurisdiction. On the weak reading the conjunction is consistent, but what it describes is a revocable permit, which is the first possibility and no exemption at all.
+
+[^closed]: The literature on open-mindedness offers cases in which closed-mindedness is said to be appropriate: toward propaganda, toward the arguments of racists, for those who lack the expertise to evaluate a skilled argument (Fantl 2018), in epistemically polluted environments (Battaly 2018), and, on Khorasanee's (2024) contextual account, wherever the costs of engagement outweigh its value. On the present account those cases divide in two. Where the person can *state* a reason for declining that could itself be challenged — this source has shown itself unreliable, I lack the competence to assess this and defer to those who have it, I cannot give this the time it needs — nothing has been exempted; a defeasible reason has been given, which §3.4 already allows. Where the reason is that the belief is central to one's life, or that engagement is unwelcome, the standing is the inquirer's own and the case is an exemption. The dividing question is the one above: what could withdraw it, and by what procedure? Russell's dictum, endorsed by Khorasanee — be open-minded about whatever does not adversely affect the broad pattern of your life — licenses exemptions on exactly the claims where §4 finds them concentrated. Nor is closedness ever needed for confidence: no one must be *closed* to the possibility that one plus one is three in order to be certain it is not, and a person who treats "racism is wrong" as exempt from scrutiny has severed it from the reasons that gave it its force.
+
+[^lee]: And the familiar charge that it is pervasively biased is weaker than its reputation: Lee, Sugimoto, Zhang, and Cronin (2013), reviewing the empirical literature, find the evidence for many hypothesized forms of bias to be limited. Nothing in this section requires peer review to perform badly, and I do not claim it does.
+
+[^hb]: The observation that follows about administration is not mine alone. Heesen and Bright (2021), arguing on quite different grounds — epistemic-consequentialist, and toward the abolition of prepublication review — rest much of their case on the arbitrariness of concentrating judgment in an editor and a handful of reviewers. Worth noticing for present purposes: their proposed replacement, post-publication community evaluation, would still certify *papers*. The reform debate concerns how claims should be checked; no party to it proposes checking anyone's conduct. That is not a defect; it is the institution doing precisely what it was designed to do. But it has a consequence for the question at hand. A scientist may say, with complete honesty and with an institution to back her, *"my papers are checked."* She cannot say *"I am checked"* — and it is the second of these that a claim to intellectual honesty asserts.
+
+[^wiki]: Wikipedia belongs to the same family and falls short for the same reason. It is adversarial, unusually close to arbiter-free, and maintains a genuine public record of disputes — but what it certifies is *article content*, not contributors. The difference of target again.
+
+[^tet]: Tetlock, Mellers, Rohrbaugh, and Chen (2014) for the tournaments and their scoring.
+
+[^platforms]: Structured argumentation platforms — Kialo and the argument-mapping tradition — belong here as further cases, not near misses. They keep a persistent inspectable record of an exchange, but they are administered by their operators and represent the structure of a debate rather than any status about a participant. See Klein and Iandoli (2008) and Bench-Capon and Dunne (2007). Adversarial collaboration (Mellers, Hertwig and Kahneman 2001) is the nearest thing in scientific practice to a check on *persons*: disputants pre-agree the tests that would move them, and then run them. It certifies the resolution of one dispute, under an arbiter, and its rarity is itself evidence for §2's picture. Lerner and Tetlock (1999) supply the psychology: accountability to an audience whose views are unknown produces self-critical thought, while accountability to a known audience produces conformity, which is the difference between (b) and a friendly review.
+
+[^verif]: Townsend (1979) on costly state verification; Green and Laffont (1986) on partially verifiable information. I draw the analogy only to locate the structure, and claim no result in either literature.
+
+[^dialogue]: The formal dialogue literature (Walton and Krabbe 1995; Prakken 2006) exists because burdens of proof, permissible moves, and termination all have to be represented and governed. I take that as confirming the shape of the requirement rather than as an objection: those are exactly the thin procedural rules (d) requires to be authored ex ante and to remain contestable.
+
+[^hahn]: The view that argument strength is a likelihood ratio, and that informal argument is rationally evaluable in Bayesian terms, is developed by Hahn and Oaksford (2007). The substrate described here is the record-keeping counterpart of that view: what they treat as a norm for evaluating arguments, a conforming system treats as the bookkeeping of what the parties could not reject.
