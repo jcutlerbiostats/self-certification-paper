@@ -1,8 +1,8 @@
 ---
 title: "The Self-Certification Problem"
 ---
-> [!info] Early working draft — updated 2026-09-17
-> **Full title:** *The Self-Certification Problem: Why attributions of intellectual honesty require arbiter-free, adversarial infrastructure with an objectively readable, external honesty ledger.*
+> [!info] Early working draft — updated 2026-09-18
+> **Full title:** *The Self-Certification Problem: Intellectual Honesty and the Conditions for a Warranted Attribution.*
 > This is an unfinished draft shared with friends for comment. Sections under a warning callout are reference prose still being rewritten in the author's own voice. Not for citation. A condensed version is at [[outline|Cliff notes outline]].
 
 # 1. Introduction
@@ -274,7 +274,7 @@ One consequence is worth stating, because it discharges the promise made to the 
 
 ## 5.3 Four conditions
 
-**(a) The check must be external** — not supplied by the person whose intellectual honesty is at issue. This follows directly from §3. The constitutive step of the practice is recognizing when an objection has landed, by evaluating arguments only on their merit. That is the step most exposed to motivated reasoning. A person grading their own performance on it is performing a version of the practice where its hardest component is self-assessed by the party with the largest stake in the result. 
+**(a) The check must be external** — not supplied by the person whose intellectual honesty is at issue. This follows directly from §3. The constitutive step of the practice is recognizing when an objection has landed, by evaluating arguments only on their merit. That is the step most exposed to motivated reasoning. A person grading their own intellectual honesty is performing a self-defeating version of the practice where its hardest component is self-assessed by the party with the largest stake in the result. 
 
 **(b) The check must be failure-sensitive, and the claimant must not control which tests are run.** I will go on calling this *adversarial*, but the word names the usual source of the property rather than the property itself. What §3's reason requires is that the test be one the claimant would fail if the conduct were absent, and that she not choose which tests she faces. A check lacking either fails for §3's reason exactly: if it would pass whether or not the person is practicing intellectual honesty, observing that it passed tells us nothing. Now ask where failure-sensitivity can come from. Reality supplies it wherever it renders a verdict, which is why a forecasting tournament needs no human opponent (§4.4). A protocol supplies it wherever the failure can be written into the protocol in advance, which is why an indifferent auditor following one can catch fraud. But for open-ended claims, where reality's verdict is complex, slow, absent, or itself contested, and where no one could specify the failure ahead of time, the only remaining source of failure-sensitive selection is a party motivated to find the failure. That is where persons are needed, and it is where the claims in question overwhelmingly live, and not by coincidence. 
 
@@ -593,8 +593,6 @@ Whitcomb, Dennis, Heather Battaly, Jason Baehr, and Daniel Howard-Snyder. 2017. 
 Willingham, Daniel T. 2008. "Critical Thinking: Why Is It So Hard to Teach?" *Arts Education Policy Review* 109 (4): 21–29.
 
 Zollman, Kevin J. S., Carl T. Bergstrom, and Simon M. Huttegger. 2013. "Between Cheap and Costly Signals: The Evolution of Partially Honest Communication." *Proceedings of the Royal Society B* 280 (1750): 20121878.
-
-# Notes
 
 [^ct]: Abrami et al. (2015) find a mean effect of g+ ≈ 0.30 across 341 effect sizes — instruction works, on the instrument. On the failure of transfer, Willingham (2008): critical thinking is not a domain-general skill but is context-dependent, which is why classroom gains do not follow the student out of the classroom. And Kahan, Peters, Dawson and Slovic (2017) find that higher numeracy *worsens* polarized readings of identity-laden data: the capacity is present and is turned away from the self.
 
