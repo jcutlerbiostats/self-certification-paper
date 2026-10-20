@@ -2,7 +2,7 @@
 title: "Cliff notes outline"
 ---
 
-> [!note] Rewritten 2026-09-17 to match the working draft after the chatGPT-review revisions. Rule: **no core argument step may be dropped**; everything else is trimmed, listed, or summarized. Written to be readable on its own, without the full draft. Full draft: [[index|the full draft]].
+> [!note] Rewritten 2026-09-17 to match the working draft after the chatGPT-review revisions. Rule: **no core argument step may be dropped**; everything else is trimmed, listed, or summarized. Written to be readable on its own, without the full draft. Full draft: [[The Self-Certification Problem — Intellectual Honesty and the Conditions for a Warranted Attribution]].
 
 ## 1. Introduction
 
