@@ -380,7 +380,7 @@ But what about the feasibility of applying the concept of resolution to the chec
 
 Each has the same form. Deny it, and you have licensed one of §3.4's failure modes by name: deny that an unanswered challenge stands and you have licensed evasion. That is what gives procedural rules a retortional stopping point that substantive standards need not always have. They are not commitments about the world; they are the minimal conditions under which any commitment about the world can be checked. To reject one retortion-backed procedural rule is to reject being checked. 
 
-## 5.4 Three further properties are consequences, not requirements
+## 5.4 Three further necessary properties are consequences, not independent requirements
 
 Four conditions is already a great deal to demand, and a reader would be right to suspect a longer list of padding. Three (admittedly similar) properties one might expect as conditions are not in fact independent conditions. They follow from (d), by one principle: 
 
@@ -650,7 +650,7 @@ Farrell, Joseph, and Matthew Rabin. 1996. "Cheap Talk." *Journal of Economic Per
 
 Fogelin, Robert J. 1985. "The Logic of Deep Disagreements." *Informal Logic* 7 (1): 1–8.
 
-==Forst, Rainer. 2012. *The Right to Justification: Elements of a Constructivist Theory of Justice.* Translated by Jeffrey Flynn. New York: Columbia University Press.==
+Forst, Rainer. 2012. *The Right to Justification: Elements of a Constructivist Theory of Justice.* Translated by Jeffrey Flynn. New York: Columbia University Press.
 
 Fricker, Miranda. 2007. *Epistemic Injustice: Power and the Ethics of Knowing.* Oxford: Oxford University Press.
 
