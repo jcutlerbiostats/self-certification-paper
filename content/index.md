@@ -614,7 +614,7 @@ Either outcome — the specification is right, or it's wrong but there's a corre
 
 ## 7.4 A disclosure
 
-**Generative AI was used extensively in the preparation of this work**, in stress-testing and refining the arguments, in searching for sources and in drafting. The argument and its structure are mine. Claude Opus 5 and Fable 5 wrote first prose drafts of each section from my outlines and notes. I modified the prose and made deeper revisions wherever needed. ChatGPT reviewed full drafts and feedback from the models named was used to sharpen the arguments. Some formulations and objections I ended up adopting after reflection originated there. I am responsible for every claim made, and the errors are mine. 
+**Generative AI was used extensively in the preparation of this work**, in stress-testing and refining the arguments, in searching for sources and in drafting. The argument and its structure are mine. Claude Opus 5 and Fable 5 wrote first prose drafts of each section from my outlines and notes. I modified the prose and made deeper revisions wherever needed. ChatGPT reviewed full drafts and feedback from the models named was used to sharpen the arguments. Some formulations and limitations I ended up accepting after reflection originated there. I am responsible for every claim made, and any errors are mine. 
 
 # References
 
